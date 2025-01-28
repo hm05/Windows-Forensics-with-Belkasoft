@@ -1,0 +1,10 @@
+# Table of Content
+1. [[Getting Started]]
+2. [[Windows File Systems]]
+3. [[Reviewing artifacts in Belkasoft X]]
+4. [[Web and email related artifacts]]
+5. [[Media Analysis]]
+6. [[Document Forensics]]
+7. [[System artifacts and looking for traces]]
+8. [[How to get more data]]
+9. [[Practical case]]
