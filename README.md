@@ -1,9 +1,11 @@
 # Windows-Forensics-with-Belkasoft
-This repository contains the notes and quiz solution for "Windows Forensics with Belkasoft" course. 
+This repository contains the notes and quiz solution for "Windows Forensics with Belkasoft" course. This repo doesn't support any piracy practice. The resources and solutions are shared for educational purpose only. The owner or contributor of this repo are not responsible for any misuse of resources shared in here.
+~ Thank you
 
-> [!NOTE]
-> The notes of this course starts from [Getting Started](Getting%20Started.md)
+**Notes**
+The notes of this course starts from [Getting Started](Getting%20Started.md)
 
+**Quiz**
 The solutions of quiz for this course is as follows
 - [2.5 BelkaQUIZ](Quiz/2.5.%20BelkaQUIZ.md)
 - [2.10 BelkaQUIZ](Quiz/2.10.%20BelkaQUIZ.md)
@@ -11,6 +13,8 @@ The solutions of quiz for this course is as follows
 - [2.17 BelkaQUIZ](Quiz/2.17.%20BelkaQUIZ.md)
 - [2.18 BelkaLAB: file system](Quiz/2.18.%20BelkaLAB:%20file%20system.md)
 - [3.6 BelkaQUIZ](Quiz/3.6.%20BelkaQUIZ.md)
+- [4.4 BelkaQUIZ: browsing history](Quiz/4.4.%20BelkaQUIZ:%20browsing%20history.md)
+- [4.5 BelkaLAB: browsing history](Quiz/4.5.%20BelkaLAB:%20browsing%20history.md)
 - [4.7 BelkaQUIZ: email forensics](Quiz/4.7.%20BelkaQUIZ:%20email%20forensics.md)
 - [4.8 BelkaLAB: email forensics](Quiz/4.8.%20BelkaLAB:%20email%20forensics.md)
 - [5.6 BelkaLAB: media](Quiz/5.6.%20BelkaLAB:%20media.md)
