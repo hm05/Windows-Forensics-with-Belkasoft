@@ -1,5 +1,3 @@
-**Only 10 out of 15 are correct in this**
-
 F1.1.  Where is the Master File Table (MFT) stored in NTFS?
 ```diff
 - In a special file called @mft
@@ -36,6 +34,7 @@ F1.5. You would like to check if a certain application was run on a machine unde
 - It means that the application has not been run since the last restart
 - It means that the application has not been run on this machine
 ```
+<!-- 
 F1.6. You need to check if a suspect stored any illicit videos on his PC. You have checked the PC hard drives, but have found only 10 innocent video files. What can you do to make sure nothing is missed?
 Select all that apply
 ```diff
@@ -44,6 +43,7 @@ Select all that apply
 - Analyse RAM and page/hibernation files, if they are available
 + Carve the hard drives
 ```
+-->
 F2.1. Which website is mentioned in the ADS of the file image:\2\vol_344981504\Users\phorger\Downloads\powder.zip?
 ```diff
 - https://powder.com
@@ -58,6 +58,7 @@ F2.2. What link is provided in the email whose subject starts with “Police ale
 + virusexchange.home
 - belkasoft.com
 ```
+<!-- 
 F2.3. For which sites is there evidence that they were used to find a gift for a girlfriend? 
 ```diff
 - Forbes
@@ -65,6 +66,7 @@ F2.3. For which sites is there evidence that they were used to find a gift for a
 - Amazon
 + eBay
 ```
+-->
 F2.4. One of the data sources includes a banknote picture in PSD format. What value does the banknote have?
 ```diff
 - 10 USD
@@ -72,6 +74,7 @@ F2.4. One of the data sources includes a banknote picture in PSD format. What va
 + 50 USD
 - 100 USD
 ```
+<!-- 
 F2.5: Which of the following VMware related logs can be found on the PC? .
 Select all that apply.
 ```diff
@@ -80,6 +83,8 @@ Select all that apply.
 + vmware-vmusr-admin.log
 - vmware-vmvss-SYSTEM.log
 ```
+-->
+<!-- 
 F2.6: Which of the following website visits can be found only in the deleted (carved) browsing history?
 ```diff
 - https://login.chinacloudapi.cn
@@ -87,6 +92,7 @@ F2.6: Which of the following website visits can be found only in the deleted (ca
 + https://albert.apple.com
 + https://www.bing.com
 ```
+-->
 F2.7. Traces of running which browsers can you find?
 ```diff
 + Chrome
@@ -94,6 +100,7 @@ F2.7. Traces of running which browsers can you find?
 + Microsoft Edge
 - Opera
 ```
+<!-- 
 F2.8. Windows logged several attempts to login using explicit credentials. Which of the following target user names were used in these attempts?
 Select all that apply.
 ```diff
@@ -102,6 +109,7 @@ Select all that apply.
 - DWM-1
 + DESKTOP-5B8Q7LT$
 ```
+-->
 F2.9. Check if an application with package hash HhfAoMceThjXij4yABiDYE8fi7j4tVlksBfxCSO2vY0= has been run on the user machine, and if yes, when it happened (UTC).
 ```diff
 - It was run one time on July 11, 2018
