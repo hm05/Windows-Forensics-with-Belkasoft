@@ -1,3 +1,5 @@
+**Only 10 out of 15 are correct in this**
+
 F1.1.  Where is the Master File Table (MFT) stored in NTFS?
 ```diff
 - In a special file called @mft
